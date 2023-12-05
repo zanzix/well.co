@@ -2,4 +2,5 @@
 To run 
 
 $ stack build
+
 $ stack exec well-exe
