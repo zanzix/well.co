@@ -1,4 +1,4 @@
-# Coding challenge for Well.io
+# Coding challenge for Well.co
 To run 
 
 $ stack build
