@@ -1,5 +1,10 @@
-{-# LANGUAGE OverloadedStrings   #-}
-{-# LANGUAGE DataKinds            #-}
+{-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE DataKinds         #-}
+{-# LANGUAGE TypeOperators     #-}
+{-# LANGUAGE DeriveGeneric     #-}
+{-# LANGUAGE LambdaCase        #-}
+{-# LANGUAGE TypeFamilies      #-}
+{-# LANGUAGE FlexibleContexts  #-}
 
 module Api
   ( queryApi

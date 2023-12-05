@@ -1,7 +1,6 @@
-{-# LANGUAGE DataKinds            #-}
-{-# LANGUAGE TemplateHaskell      #-}
-{-# LANGUAGE TypeOperators        #-}
-{-# LANGUAGE OverloadedStrings   #-}
+{-# LANGUAGE DataKinds         #-}
+{-# LANGUAGE TypeOperators     #-}
+{-# LANGUAGE OverloadedStrings #-}
 
 module Server
   ( runServer
